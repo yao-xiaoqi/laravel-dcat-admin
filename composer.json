@@ -47,5 +47,6 @@
                 "Dcat\\Admin\\AdminServiceProvider"
             ]
         }
-    }
+    },
+    "version": "1.0.0"
 }
