@@ -4,16 +4,10 @@
     "type": "library",
     "keywords": ["dcat", "laravel", "admin", "grid", "form", "laravel admin"],
     "homepage": "https://github.com/yao-xiaoqi/laravel-dcat-admin.git",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "jqh",
-            "email": "841324345@qq.com"
-        }
-    ],
+    "version": "1.0.0",
     "require": {
-        "php": "^8.2",
-        "laravel/framework": "^11.0",
+        "php": "^8.0",
+        "laravel/framework": "^10.0",
         "spatie/eloquent-sortable": "3.*|4.*",
         "doctrine/dbal": "^2.6|^3.0"
     },
