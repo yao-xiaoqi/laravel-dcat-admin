@@ -1,6 +1,6 @@
 {
-    "name": "dcat/laravel-dcat-admin",
-    "description": "laravel11.0 dcat admin",
+    "name": "laravel-h-admin/laravel-h-admin",
+    "description": "laravel11.0 h admin",
     "type": "library",
     "keywords": ["dcat", "laravel", "admin", "grid", "form", "laravel admin"],
     "homepage": "https://github.com/yao-xiaoqi/laravel-dcat-admin.git",
