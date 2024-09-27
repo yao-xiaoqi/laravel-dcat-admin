@@ -202,10 +202,12 @@ class VersionManager
 
         $versions = $this->getFileVersions($name);
 
+        // 更新
         $position = array_search($version, array_keys($versions));
 
         return array_slice($versions, ++$position);
     }
+
 
     public function getFileVersions($name)
     {
